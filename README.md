@@ -1,4 +1,4 @@
-## Hi there 👀
+## Hello there 👀
 I'm Gabriel, a software developer born and raised in Brazil.
 
 I develop software for fun (and if you are interested, it would be my pleasure to do it for a living too!).
