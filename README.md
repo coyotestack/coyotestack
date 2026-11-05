@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👀
+I'm Gabriel, a software developer born and raised in Brazil.
+
+I develop software for fun (and if you are interested, it would be my pleasure to do it for a living too!).
+
+My main tech stack includes .NET, C#, and Python.
+
+I'm currently working on an undergraduate research project at LNCC, where I'm developing a data extraction and storage pipeline for DATASUS, Brazil's public health information system.
+
+You can also check out my personal serial communication GUI project here.
+
 
 <!--
 **coyotestack/coyotestack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
